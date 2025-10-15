@@ -11,6 +11,7 @@ Olá, sou a Izabela Vitoria 👋
 </div>
 
 <div style="display: inline_block"><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px">
