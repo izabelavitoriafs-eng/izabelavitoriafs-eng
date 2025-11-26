@@ -5,10 +5,7 @@ Olá, sou a Izabela Vitoria 👋
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Me interesso tanto com Front-end, quanto em Back-end!
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=izabelavitoriafs-eng&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabelavitoriafs-eng&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="45"/>
